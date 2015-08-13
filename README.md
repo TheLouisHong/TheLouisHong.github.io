@@ -1,78 +1,123 @@
-# Jekyll-Bootstrap
+# Harmony
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+Harmony is a responsive jekyll theme. 
 
-## Usage
+- Built for jekyll 2.x
+- Supports Google analytics and RSS feeds
+- Sass based styles
+- Browser support: IE 8+, Chrome, Safari and Firefox 
+- Fluidly responsive 
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+## Contents
 
-## Version
+- [Harmony](#harmony)
+- [About Jekyll](#about-jekyll)
+- [How to install/run](#how-to-installrun)
+- [Options/Usage](#optionsusage)
+  - [Header navigation links](#header-navigation-links)
+  - [Footer links](#footer-links)
+  - [Copyrights/Disclaimer statements](#copyrightsdisclaimer-statements)
+- [Screenshots](#screenshots)
+- [Feedback/Bugs/Suggestions](#feedbackbugssuggestions)
+- [Version history](#version-history)
+- [License](#license)
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+## About jekyll 
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+[Jekyll](http://jekyllrb.com/) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
 
-## Milestones
+## How to install/run
 
-[0.4.0](https://github.com/plusjade/jekyll-bootstrap/milestones/v%200.4.0) - next release [ETA 03/29/2015]
+1. [Fork](https://github.com/web-create/harmony/fork) this repository.
+2. Clone it: git clone https://github.com/YOUR-USERNAME/harmony.
+3. If you're completely new to jekyll, please read more about [Jekyll](http://jekyllrb.com/) and [Github pages](https://help.github.com/articles/using-jekyll-with-pages).
+4. Change your directory into cloned repository. 
+5. Run `bundle install`
+6. Edit the _config.yml on root directory. Change `url` property to to 
+`http://127.0.0.1:4000` since you are going to run on localhost.
+7. Run the jekyll server by having: `jekyll serve --baseurl ''` or `rake preview`   
 
-### GOALS
+Point your browser to [http://localhost:4000](http://localhost:4000).
 
-* No open PRs against master branch.
-* Squash some bugs.
-* Add some new features (low-hanging fruit).
-* Establish social media presence.
+Note: If you are a windows user please refer to this nice website - http://jekyll-windows.juthilo.com/ by Julian Thilo to configure ruby + jekyll on windows.
 
+## Options/Usage
 
-### Bugs
+Harmony has some customizable options. All the configuration details are 
+configured in `_config.yml` file under root of the harmony directory. 
 
-|Bug |Description
-|------|---------------
-|[#86](https://github.com/plusjade/jekyll-bootstrap/issues/86)  |&#x2611; Facebook Comments
-|[#113](https://github.com/plusjade/jekyll-bootstrap/issues/113)|&#x2611; ASSET_PATH w/ page & post
-|[#144](https://github.com/plusjade/jekyll-bootstrap/issues/144)|&#x2610; BASE_PATH w/ FQDN
-|[#227](https://github.com/plusjade/jekyll-bootstrap/issues/227)|&#x2611; Redundant JB/setup
+Feel free to change your `name`, `descriptionn`, `meta_description`, `author details`,
+`social media names` and `Google analytics id` accordingly. 
 
-### Features
+``` yml
+# Harmony theme configuration. Please change accordingly.
+harmony:
+  name: Harmony
+  # Little description about your site
+  description: Harmony is free responsive jekyll theme.
+  meta_description: Harmony is free responsive jekyll theme. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  basetheme: theme-base-01 # pre defined the{{ site.url | prepend: site.baseurl }}mes are darken, blue-water, reddish.
+  author: # Author details
+    name: Gayan Virajith
+    email: gayanvirajith@gmail.com
+    url: http://gayanvirajith.github.io
 
-|Bug |Description
-|------|---------------
-|[#98](https://github.com/plusjade/jekyll-bootstrap/issues/98)  |&#x2611; GIST Integration
-|[#244](https://github.com/plusjade/jekyll-bootstrap/issues/244)|&#x2611; JB/file_exists Helper
-|[#42](https://github.com/plusjade/jekyll-bootstrap/issues/42)  |&#x2611; Sort collections of Pages / Posts
-|[#84](https://github.com/plusjade/jekyll-bootstrap/issues/84)  |&#x2610; Detecting production mode
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-xxxx-x
 
-### TODOS
+  # Profile links, leave blank to ignore
+  social: 
+    github: gayanvirajith
+    twitter: gayanvirajith
+    facebook: gayanvirajith
+    gplus: +GayanVirajith
+    dribble: gayan
+    pinterest: 
+  # Toggle disclaimer in footer
+  show_disclaimer: true
+```
 
-Review existing pull requests against plusjake/jekyll-bootstrap:master. Merge or close each.
+### Includes 
 
-* Create twitter account. Add link / icon on jekyllbootstrap.com.
-* Create blog posts under plusjade/gh-pages, expose on jekyllbootstrap.com, feed to twitter account.
-* Announce state of project, announce roadmap(s), announce new versions as they’re released.
+All the partial includes are under `_includes` directory.
 
-## Contributing
+#### Header navigation links
 
+Feel free to add/edit links for your header in the file `header-links.html`.
 
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
+#### Footer links
 
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
+Customize your footer links by editing `_includes/footer-links.html`
 
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
+#### Copyrights/Disclaimer statements
 
-**Jekyll-Bootstrap Documentation Website.**
+All copyright notes are under `_includes/footer.html`. Also note that you 
+can toggle on/off copyright notes from the front-end by setting up `show_disclaimer` 
+property in `_config.yml`. 
 
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+### Screenshots
+![Home page screenshot](https://raw.githubusercontent.com/web-create/harmony/master/assets/css/images/harmony-web.jpg "Desktop screen")
+
+![Post page screenshot](https://raw.githubusercontent.com/web-create/harmony/master/assets/css/images/harmony-web-2.jpg "Post page screen-shot")
+
+![Blog archive page screenshot](https://raw.githubusercontent.com/web-create/harmony/master/assets/css/images/harmony-web-3.jpg "Blog archive page screen-shot")
+
+#### Feedback/Bugs/Suggestions 
+
+Please submit as an [issue](https://github.com/web-create/harmony/issues/new),
+I am happy to response back.
+
+Version history
+---------------
+
+| Version no. | Description  | Date |
+| --- | --- | --- |
+| 1.0 | Initial release | 9th September 2014 |
+| 1.0.1 | v1.0.1 with minor bug fix | 9th September 2014 |
+| 1.0.2 | v1.0.2 Optimize for Google | 24th October 2014 |
 
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+Free / Open sourced under the 
+[MIT](https://github.com/web-create/harmony/blob/master/LICENSE.md).
