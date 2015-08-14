@@ -1,15 +1,19 @@
 ---
-layout: page
+layout: about
 title: About me
 permalink: /about/
 ---
 
-Hi, I am Louis Hong, a game developer (who works currently works on mobile games) based on Seattle. 
+<img src="http://i.imgur.com/IijDSzU.jpg" style="width:300px;float: left;margin-right: 43px;"/>
+
+# Hi, I am Louis Hong.
+
+I'm currently a game developer (who works currently works on mobile games) based on Seattle. 
 Studying at the DigiPen Institute Of Technology. 
 
 I am the founder of the studio Broken Taxi Studios. Currently we are working on a mobile game named "Speed Block", a challenging game of a speeding block making tight turns in order to not fall off a collapsing lane platform. I really hope to share more about this game on the blog.
 
-### My Programmer's Log
+#### My Programmer's Log
 
 * **8th grade (2010)**: I started learning `Scratch`, a visual scripting language; [I made many games][scratch], including a [fruit ninja copy](https://scratch.mit.edu/projects/1818670/) which went viral on the website. I quickly moved on to `Python` and `Basic`; I made a few simple games with PyGame, an online chatting software and a proxy used to get around China's Internet censorship. 
 
