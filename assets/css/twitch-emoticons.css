@@ -1,0 +1,2364 @@
+.twitch {
+  background: url( '../images/twitch-emoticons.png' ) no-repeat;
+  background-size: 408px 375px;
+}
+
+.twitch.BloodTrail {
+  width: 41px;
+  height: 28px;
+  background-position: 0px 0px;
+}
+
+.twitch.FrankerZ {
+  width: 40px;
+  height: 30px;
+  background-position: 0px -28px;
+}
+
+.twitch.MrDestructoid {
+  width: 39px;
+  height: 27px;
+  background-position: -41px 0px;
+}
+
+.twitch.BibleThump {
+  width: 36px;
+  height: 30px;
+  background-position: -41px -27px;
+}
+
+.twitch.PJSalt {
+  width: 36px;
+  height: 30px;
+  background-position: -80px 0px;
+}
+
+.twitch.RalpherZ {
+  width: 33px;
+  height: 30px;
+  background-position: 0px -58px;
+}
+
+.twitch.SMOrc {
+  width: 32px;
+  height: 32px;
+  background-position: -116px 0px;
+}
+
+.twitch.DansGame {
+  width: 25px;
+  height: 32px;
+  background-position: -116px -32px;
+}
+
+.twitch.MVGame {
+  width: 24px;
+  height: 32px;
+  background-position: 0px -88px;
+}
+
+.twitch.BionicBunion {
+  width: 30px;
+  height: 30px;
+  background-position: -33px -58px;
+}
+
+.twitch.BrainSlug {
+  width: 30px;
+  height: 30px;
+  background-position: -63px -58px;
+}
+
+.twitch.WinWaker {
+  width: 30px;
+  height: 30px;
+  background-position: -24px -88px;
+}
+
+.twitch.EvilFetus {
+  width: 29px;
+  height: 30px;
+  background-position: -54px -88px;
+}
+
+.twitch.UnSane {
+  width: 28px;
+  height: 30px;
+  background-position: -83px -88px;
+}
+
+.twitch.HotPokket {
+  width: 28px;
+  height: 30px;
+  background-position: -111px -88px;
+}
+
+.twitch.TriHard {
+  width: 24px;
+  height: 30px;
+  background-position: -148px 0px;
+}
+
+.twitch.BigBrother {
+  width: 24px;
+  height: 30px;
+  background-position: -148px -30px;
+}
+
+.twitch.AsianGlow {
+  width: 24px;
+  height: 30px;
+  background-position: -148px -60px;
+}
+
+.twitch.ShazBotstix {
+  width: 24px;
+  height: 30px;
+  background-position: -148px -90px;
+}
+
+.twitch.DatSheffy {
+  width: 24px;
+  height: 30px;
+  background-position: 0px -120px;
+}
+
+.twitch.SoBayed {
+  width: 24px;
+  height: 30px;
+  background-position: -24px -120px;
+}
+
+.twitch.FUNgineer {
+  width: 24px;
+  height: 30px;
+  background-position: -48px -120px;
+}
+
+.twitch.TooSpicy {
+  width: 23px;
+  height: 30px;
+  background-position: -93px -58px;
+}
+
+.twitch.PogChamp {
+  width: 23px;
+  height: 30px;
+  background-position: -72px -120px;
+}
+
+.twitch.PMSTwin {
+  width: 23px;
+  height: 30px;
+  background-position: -95px -120px;
+}
+
+.twitch.SoonerLater {
+  width: 23px;
+  height: 30px;
+  background-position: -118px -120px;
+}
+
+.twitch.TF2John {
+  width: 22px;
+  height: 30px;
+  background-position: -141px -120px;
+}
+
+.twitch.FailFish {
+  width: 22px;
+  height: 30px;
+  background-position: -172px 0px;
+}
+
+.twitch.Jebaited {
+  width: 21px;
+  height: 30px;
+  background-position: -172px -30px;
+}
+
+.twitch.OpieOP {
+  width: 21px;
+  height: 30px;
+  background-position: -172px -60px;
+}
+
+.twitch.Poooound {
+  width: 21px;
+  height: 30px;
+  background-position: -172px -90px;
+}
+
+.twitch.DBstyle {
+  width: 21px;
+  height: 30px;
+  background-position: -172px -120px;
+}
+
+.twitch.smiley-14 {
+  width: 20px;
+  height: 30px;
+  background-position: 0px -150px;
+}
+
+.twitch.RuleFive {
+  width: 20px;
+  height: 30px;
+  background-position: -20px -150px;
+}
+
+.twitch.WholeWheat {
+  width: 20px;
+  height: 30px;
+  background-position: -40px -150px;
+}
+
+.twitch.BORT {
+  width: 19px;
+  height: 30px;
+  background-position: -60px -150px;
+}
+
+.twitch.TinyFace {
+  width: 19px;
+  height: 30px;
+  background-position: -79px -150px;
+}
+
+.twitch.Keepo {
+  width: 27px;
+  height: 29px;
+  background-position: -98px -150px;
+}
+
+.twitch.BCWarrior {
+  width: 29px;
+  height: 27px;
+  background-position: -80px -30px;
+}
+
+.twitch.tbSpicy {
+  width: 28px;
+  height: 28px;
+  background-position: -125px -150px;
+}
+
+.twitch.tbSausageBiscuit {
+  width: 28px;
+  height: 28px;
+  background-position: -153px -150px;
+}
+
+.twitch.tbSriracha {
+  width: 28px;
+  height: 28px;
+  background-position: -194px 0px;
+}
+
+.twitch.tbChickenBiscuit {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -28px;
+}
+
+.twitch.CorgiDerp {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -56px;
+}
+
+.twitch.OSbury {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -84px;
+}
+
+.twitch.DatHass {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -112px;
+}
+
+.twitch.tbBaconBiscuit {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -140px;
+}
+
+.twitch.HumbleLife {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -180px;
+}
+
+.twitch.OSsloth {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -180px;
+}
+
+.twitch.OSkomodo {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -180px;
+}
+
+.twitch.OSfrog {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -180px;
+}
+
+.twitch.OSdeo {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -180px;
+}
+
+.twitch.OSbeaver {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -180px;
+}
+
+.twitch.NotATK {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -180px;
+}
+
+.twitch.deExcite {
+  width: 28px;
+  height: 28px;
+  background-position: -222px 0px;
+}
+
+.twitch.deIlluminati {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -28px;
+}
+
+.twitch.lirikP {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -56px;
+}
+
+.twitch.lirikDJ {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -84px;
+}
+
+.twitch.TTours {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -112px;
+}
+
+.twitch.mcaT {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -140px;
+}
+
+.twitch.PraiseIt {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -168px;
+}
+
+.twitch.AthenaPMS {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -208px;
+}
+
+.twitch.PuppeyFace {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -208px;
+}
+
+.twitch.lirikFEELS {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -208px;
+}
+
+.twitch.lirikLEWD {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -208px;
+}
+
+.twitch.HeyGuys {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -208px;
+}
+
+.twitch.lirikCHAMP {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -208px;
+}
+
+.twitch.DendiFace {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -208px;
+}
+
+.twitch.lirikNOT {
+  width: 28px;
+  height: 28px;
+  background-position: -196px -208px;
+}
+
+.twitch.ANELE {
+  width: 28px;
+  height: 28px;
+  background-position: -250px 0px;
+}
+
+.twitch.PRChase {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -28px;
+}
+
+.twitch.WutFace {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -56px;
+}
+
+.twitch.ShibeZ {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -84px;
+}
+
+.twitch.RaccAttack {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -112px;
+}
+
+.twitch.BuddhaBar {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -140px;
+}
+
+.twitch.PermaSmug {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -168px;
+}
+
+.twitch.panicBasket {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -196px;
+}
+
+.twitch.BabyRage {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -236px;
+}
+
+.twitch.CoolCat {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -236px;
+}
+
+.twitch.ShadyLulu {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -236px;
+}
+
+.twitch.SriHead {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -236px;
+}
+
+.twitch.KappaPride {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -236px;
+}
+
+.twitch.lirikHYPE {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -236px;
+}
+
+.twitch.lirikF {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -236px;
+}
+
+.twitch.TheKing {
+  width: 28px;
+  height: 28px;
+  background-position: -196px -236px;
+}
+
+.twitch.AtGL {
+  width: 28px;
+  height: 28px;
+  background-position: -224px -236px;
+}
+
+.twitch.NightBat {
+  width: 28px;
+  height: 28px;
+  background-position: -278px 0px;
+}
+
+.twitch.lirikWc {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -28px;
+}
+
+.twitch.lirikW {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -56px;
+}
+
+.twitch.KAPOW {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -84px;
+}
+
+.twitch.lirikMEOW {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -112px;
+}
+
+.twitch.AtIvy {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -140px;
+}
+
+.twitch.lirikCLENCH {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -168px;
+}
+
+.twitch.shazamicon {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -196px;
+}
+
+.twitch.lirikNICE {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -224px;
+}
+
+.twitch.lirikPOOP {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -264px;
+}
+
+.twitch.lirikTEN {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -264px;
+}
+
+.twitch.lirikHug {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -264px;
+}
+
+.twitch.lirikBLIND {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -264px;
+}
+
+.twitch.VaultBoy {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -264px;
+}
+
+.twitch.lirikC {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -264px;
+}
+
+.twitch.lirikB {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -264px;
+}
+
+.twitch.MechaSupes {
+  width: 28px;
+  height: 28px;
+  background-position: -196px -264px;
+}
+
+.twitch.lirikL {
+  width: 28px;
+  height: 28px;
+  background-position: -224px -264px;
+}
+
+.twitch.PJHarley {
+  width: 28px;
+  height: 28px;
+  background-position: -252px -264px;
+}
+
+.twitch.lirikM {
+  width: 28px;
+  height: 28px;
+  background-position: -306px 0px;
+}
+
+.twitch.lirikO {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -28px;
+}
+
+.twitch.ResidentSleeper {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -56px;
+}
+
+.twitch.lirikFAT {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -84px;
+}
+
+.twitch.lirikAppa {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -112px;
+}
+
+.twitch.lirikGasm {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -140px;
+}
+
+.twitch.lirikGOTY {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -168px;
+}
+
+.twitch.lirikREKT {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -196px;
+}
+
+.twitch.lirikRIP {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -224px;
+}
+
+.twitch.lirikD {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -252px;
+}
+
+.twitch.lirikH {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -292px;
+}
+
+.twitch.OSrob {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -292px;
+}
+
+.twitch.lirikTRASH {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -292px;
+}
+
+.twitch.WTRuck {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -292px;
+}
+
+.twitch.GasJoker {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -292px;
+}
+
+.twitch.lirikMLG {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -292px;
+}
+
+.twitch.lirikCRASH {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -292px;
+}
+
+.twitch.Shazam {
+  width: 28px;
+  height: 28px;
+  background-position: -196px -292px;
+}
+
+.twitch.DOOMGuy {
+  width: 28px;
+  height: 28px;
+  background-position: -224px -292px;
+}
+
+.twitch.lirikOBESE {
+  width: 28px;
+  height: 28px;
+  background-position: -252px -292px;
+}
+
+.twitch.AtWW {
+  width: 28px;
+  height: 28px;
+  background-position: -280px -292px;
+}
+
+.twitch.DAESuppy {
+  width: 28px;
+  height: 28px;
+  background-position: -334px 0px;
+}
+
+.twitch.tbQuesarito {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -28px;
+}
+
+.twitch.TheThing {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -56px;
+}
+
+.twitch.PeoplesChamp {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -84px;
+}
+
+.twitch.GrammarKing {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -112px;
+}
+
+.twitch.UncleNox {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -140px;
+}
+
+.twitch.PanicVis {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -168px;
+}
+
+.twitch.BrokeBack {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -196px;
+}
+
+.twitch.PipeHype {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -224px;
+}
+
+.twitch.Mau5 {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -252px;
+}
+
+.twitch.YouWHY {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -280px;
+}
+
+.twitch.RitzMitz {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -320px;
+}
+
+.twitch.EleGiggle {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -320px;
+}
+
+.twitch.ArgieB8 {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -320px;
+}
+
+.twitch.KZskull {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -320px;
+}
+
+.twitch.NotLikeThis {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -320px;
+}
+
+.twitch.Volcania {
+  width: 27px;
+  height: 28px;
+  background-position: -140px -320px;
+}
+
+.twitch.ThunBeast {
+  width: 26px;
+  height: 28px;
+  background-position: -196px -180px;
+}
+
+.twitch.lirikThump {
+  width: 28px;
+  height: 26px;
+  background-position: -167px -320px;
+}
+
+.twitch.TheTarFu {
+  width: 25px;
+  height: 28px;
+  background-position: -224px -208px;
+}
+
+.twitch.Kappa {
+  width: 25px;
+  height: 28px;
+  background-position: -252px -236px;
+}
+
+.twitch.Kippa {
+  width: 24px;
+  height: 28px;
+  background-position: -280px -264px;
+}
+
+.twitch.OMGScoots {
+  width: 22px;
+  height: 28px;
+  background-position: -308px -292px;
+}
+
+.twitch.DogFace {
+  width: 22px;
+  height: 28px;
+  background-position: -362px 0px;
+}
+
+.twitch.SwiftRage {
+  width: 21px;
+  height: 28px;
+  background-position: -362px -28px;
+}
+
+.twitch.HassanChop {
+  width: 19px;
+  height: 28px;
+  background-position: -362px -56px;
+}
+
+.twitch.BatChest {
+  width: 18px;
+  height: 28px;
+  background-position: -362px -84px;
+}
+
+.twitch.FunRun {
+  width: 27px;
+  height: 27px;
+  background-position: 0px -348px;
+}
+
+.twitch.SuperVinlin {
+  width: 23px;
+  height: 27px;
+  background-position: -27px -348px;
+}
+
+.twitch.NoNoSpot {
+  width: 23px;
+  height: 27px;
+  background-position: -50px -348px;
+}
+
+.twitch.OptimizePrime {
+  width: 22px;
+  height: 27px;
+  background-position: -362px -112px;
+}
+
+.twitch.PicoMause {
+  width: 22px;
+  height: 27px;
+  background-position: -362px -139px;
+}
+
+.twitch.CougarHunt {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -166px;
+}
+
+.twitch.JKanStyle {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -193px;
+}
+
+.twitch.GingerPower {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -220px;
+}
+
+.twitch.BlargNaut {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -247px;
+}
+
+.twitch.KevinTurtle {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -274px;
+}
+
+.twitch.StrawBeary {
+  width: 20px;
+  height: 27px;
+  background-position: -362px -301px;
+}
+
+.twitch.FPSMarksman {
+  width: 20px;
+  height: 27px;
+  background-position: -73px -348px;
+}
+
+.twitch.OneHand {
+  width: 20px;
+  height: 27px;
+  background-position: -93px -348px;
+}
+
+.twitch.JonCarnage {
+  width: 20px;
+  height: 27px;
+  background-position: -113px -348px;
+}
+
+.twitch.StoneLightning {
+  width: 20px;
+  height: 27px;
+  background-position: -133px -348px;
+}
+
+.twitch.TheRinger {
+  width: 20px;
+  height: 27px;
+  background-position: -153px -348px;
+}
+
+.twitch.FreakinStinkin {
+  width: 19px;
+  height: 27px;
+  background-position: -173px -348px;
+}
+
+.twitch.NinjaTroll {
+  width: 19px;
+  height: 27px;
+  background-position: -192px -348px;
+}
+
+.twitch.RedCoat {
+  width: 19px;
+  height: 27px;
+  background-position: -211px -348px;
+}
+
+.twitch.Kreygasm {
+  width: 19px;
+  height: 27px;
+  background-position: -230px -348px;
+}
+
+.twitch.ArsonNoSexy {
+  width: 18px;
+  height: 27px;
+  background-position: -249px -348px;
+}
+
+.twitch.PazPazowitz {
+  width: 18px;
+  height: 27px;
+  background-position: -267px -348px;
+}
+
+.twitch.EagleEye {
+  width: 18px;
+  height: 27px;
+  background-position: -285px -348px;
+}
+
+.twitch.UleetBackup {
+  width: 17px;
+  height: 27px;
+  background-position: -303px -348px;
+}
+
+.twitch.FuzzyOtterOO {
+  width: 26px;
+  height: 26px;
+  background-position: -195px -320px;
+}
+
+.twitch.PunchTrees {
+  width: 24px;
+  height: 24px;
+  background-position: -116px -64px;
+}
+
+.twitch.SMSkull {
+  width: 24px;
+  height: 24px;
+  background-position: -221px -320px;
+}
+
+.twitch.SSSsss {
+  width: 24px;
+  height: 24px;
+  background-position: -245px -320px;
+}
+
+.twitch.smiley-1 {
+  width: 24px;
+  height: 18px;
+  background-position: -269px -320px;
+}
+
+.twitch.smiley-5 {
+  width: 24px;
+  height: 18px;
+  background-position: -293px -320px;
+}
+
+.twitch.smiley-4 {
+  width: 24px;
+  height: 18px;
+  background-position: -317px -320px;
+}
+
+.twitch.smiley-3 {
+  width: 24px;
+  height: 18px;
+  background-position: -320px -348px;
+}
+
+.twitch.smiley-2 {
+  width: 24px;
+  height: 18px;
+  background-position: -344px -348px;
+}
+
+.twitch.smiley-10 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px 0px;
+}
+
+.twitch.smiley-15 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -18px;
+}
+
+.twitch.smiley-13 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -36px;
+}
+
+.twitch.smiley-11 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -54px;
+}
+
+.twitch.smiley-9 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -72px;
+}
+
+.twitch.smiley-12 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -90px;
+}
+
+.twitch.smiley-7 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -108px;
+}
+
+.twitch.smiley-6 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -126px;
+}
+
+.twitch.smiley-8 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -144px;
+}
+
+.twitch.ItsBoshyTime {
+  width: 18px;
+  height: 18px;
+  background-position: -384px -162px;
+}
+
+.twitch {
+  display: inline-block;
+  background: url( '../images/twitch-emoticons.png' ) no-repeat;
+  background-size: 408px 375px;
+}
+
+.twitch.BloodTrail {
+  width: 41px;
+  height: 28px;
+  background-position: 0px 0px;
+}
+
+.twitch.FrankerZ {
+  width: 40px;
+  height: 30px;
+  background-position: 0px -28px;
+}
+
+.twitch.MrDestructoid {
+  width: 39px;
+  height: 27px;
+  background-position: -41px 0px;
+}
+
+.twitch.BibleThump {
+  width: 36px;
+  height: 30px;
+  background-position: -41px -27px;
+}
+
+.twitch.PJSalt {
+  width: 36px;
+  height: 30px;
+  background-position: -80px 0px;
+}
+
+.twitch.RalpherZ {
+  width: 33px;
+  height: 30px;
+  background-position: 0px -58px;
+}
+
+.twitch.SMOrc {
+  width: 32px;
+  height: 32px;
+  background-position: -116px 0px;
+}
+
+.twitch.DansGame {
+  width: 25px;
+  height: 32px;
+  background-position: -116px -32px;
+}
+
+.twitch.MVGame {
+  width: 24px;
+  height: 32px;
+  background-position: 0px -88px;
+}
+
+.twitch.BionicBunion {
+  width: 30px;
+  height: 30px;
+  background-position: -33px -58px;
+}
+
+.twitch.BrainSlug {
+  width: 30px;
+  height: 30px;
+  background-position: -63px -58px;
+}
+
+.twitch.WinWaker {
+  width: 30px;
+  height: 30px;
+  background-position: -24px -88px;
+}
+
+.twitch.EvilFetus {
+  width: 29px;
+  height: 30px;
+  background-position: -54px -88px;
+}
+
+.twitch.UnSane {
+  width: 28px;
+  height: 30px;
+  background-position: -83px -88px;
+}
+
+.twitch.HotPokket {
+  width: 28px;
+  height: 30px;
+  background-position: -111px -88px;
+}
+
+.twitch.TriHard {
+  width: 24px;
+  height: 30px;
+  background-position: -148px 0px;
+}
+
+.twitch.BigBrother {
+  width: 24px;
+  height: 30px;
+  background-position: -148px -30px;
+}
+
+.twitch.AsianGlow {
+  width: 24px;
+  height: 30px;
+  background-position: -148px -60px;
+}
+
+.twitch.ShazBotstix {
+  width: 24px;
+  height: 30px;
+  background-position: -148px -90px;
+}
+
+.twitch.DatSheffy {
+  width: 24px;
+  height: 30px;
+  background-position: 0px -120px;
+}
+
+.twitch.SoBayed {
+  width: 24px;
+  height: 30px;
+  background-position: -24px -120px;
+}
+
+.twitch.FUNgineer {
+  width: 24px;
+  height: 30px;
+  background-position: -48px -120px;
+}
+
+.twitch.TooSpicy {
+  width: 23px;
+  height: 30px;
+  background-position: -93px -58px;
+}
+
+.twitch.PogChamp {
+  width: 23px;
+  height: 30px;
+  background-position: -72px -120px;
+}
+
+.twitch.PMSTwin {
+  width: 23px;
+  height: 30px;
+  background-position: -95px -120px;
+}
+
+.twitch.SoonerLater {
+  width: 23px;
+  height: 30px;
+  background-position: -118px -120px;
+}
+
+.twitch.TF2John {
+  width: 22px;
+  height: 30px;
+  background-position: -141px -120px;
+}
+
+.twitch.FailFish {
+  width: 22px;
+  height: 30px;
+  background-position: -172px 0px;
+}
+
+.twitch.Jebaited {
+  width: 21px;
+  height: 30px;
+  background-position: -172px -30px;
+}
+
+.twitch.OpieOP {
+  width: 21px;
+  height: 30px;
+  background-position: -172px -60px;
+}
+
+.twitch.Poooound {
+  width: 21px;
+  height: 30px;
+  background-position: -172px -90px;
+}
+
+.twitch.DBstyle {
+  width: 21px;
+  height: 30px;
+  background-position: -172px -120px;
+}
+
+.twitch.smiley-14 {
+  width: 20px;
+  height: 30px;
+  background-position: 0px -150px;
+}
+
+.twitch.RuleFive {
+  width: 20px;
+  height: 30px;
+  background-position: -20px -150px;
+}
+
+.twitch.WholeWheat {
+  width: 20px;
+  height: 30px;
+  background-position: -40px -150px;
+}
+
+.twitch.BORT {
+  width: 19px;
+  height: 30px;
+  background-position: -60px -150px;
+}
+
+.twitch.TinyFace {
+  width: 19px;
+  height: 30px;
+  background-position: -79px -150px;
+}
+
+.twitch.Keepo {
+  width: 27px;
+  height: 29px;
+  background-position: -98px -150px;
+}
+
+.twitch.BCWarrior {
+  width: 29px;
+  height: 27px;
+  background-position: -80px -30px;
+}
+
+.twitch.tbSpicy {
+  width: 28px;
+  height: 28px;
+  background-position: -125px -150px;
+}
+
+.twitch.tbSausageBiscuit {
+  width: 28px;
+  height: 28px;
+  background-position: -153px -150px;
+}
+
+.twitch.tbSriracha {
+  width: 28px;
+  height: 28px;
+  background-position: -194px 0px;
+}
+
+.twitch.tbChickenBiscuit {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -28px;
+}
+
+.twitch.CorgiDerp {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -56px;
+}
+
+.twitch.OSbury {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -84px;
+}
+
+.twitch.DatHass {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -112px;
+}
+
+.twitch.tbBaconBiscuit {
+  width: 28px;
+  height: 28px;
+  background-position: -194px -140px;
+}
+
+.twitch.HumbleLife {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -180px;
+}
+
+.twitch.OSsloth {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -180px;
+}
+
+.twitch.OSkomodo {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -180px;
+}
+
+.twitch.OSfrog {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -180px;
+}
+
+.twitch.OSdeo {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -180px;
+}
+
+.twitch.OSbeaver {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -180px;
+}
+
+.twitch.NotATK {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -180px;
+}
+
+.twitch.deExcite {
+  width: 28px;
+  height: 28px;
+  background-position: -222px 0px;
+}
+
+.twitch.deIlluminati {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -28px;
+}
+
+.twitch.lirikP {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -56px;
+}
+
+.twitch.lirikDJ {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -84px;
+}
+
+.twitch.TTours {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -112px;
+}
+
+.twitch.mcaT {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -140px;
+}
+
+.twitch.PraiseIt {
+  width: 28px;
+  height: 28px;
+  background-position: -222px -168px;
+}
+
+.twitch.AthenaPMS {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -208px;
+}
+
+.twitch.PuppeyFace {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -208px;
+}
+
+.twitch.lirikFEELS {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -208px;
+}
+
+.twitch.lirikLEWD {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -208px;
+}
+
+.twitch.HeyGuys {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -208px;
+}
+
+.twitch.lirikCHAMP {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -208px;
+}
+
+.twitch.DendiFace {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -208px;
+}
+
+.twitch.lirikNOT {
+  width: 28px;
+  height: 28px;
+  background-position: -196px -208px;
+}
+
+.twitch.ANELE {
+  width: 28px;
+  height: 28px;
+  background-position: -250px 0px;
+}
+
+.twitch.PRChase {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -28px;
+}
+
+.twitch.WutFace {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -56px;
+}
+
+.twitch.ShibeZ {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -84px;
+}
+
+.twitch.RaccAttack {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -112px;
+}
+
+.twitch.BuddhaBar {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -140px;
+}
+
+.twitch.PermaSmug {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -168px;
+}
+
+.twitch.panicBasket {
+  width: 28px;
+  height: 28px;
+  background-position: -250px -196px;
+}
+
+.twitch.BabyRage {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -236px;
+}
+
+.twitch.CoolCat {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -236px;
+}
+
+.twitch.ShadyLulu {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -236px;
+}
+
+.twitch.SriHead {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -236px;
+}
+
+.twitch.KappaPride {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -236px;
+}
+
+.twitch.lirikHYPE {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -236px;
+}
+
+.twitch.lirikF {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -236px;
+}
+
+.twitch.TheKing {
+  width: 28px;
+  height: 28px;
+  background-position: -196px -236px;
+}
+
+.twitch.AtGL {
+  width: 28px;
+  height: 28px;
+  background-position: -224px -236px;
+}
+
+.twitch.NightBat {
+  width: 28px;
+  height: 28px;
+  background-position: -278px 0px;
+}
+
+.twitch.lirikWc {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -28px;
+}
+
+.twitch.lirikW {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -56px;
+}
+
+.twitch.KAPOW {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -84px;
+}
+
+.twitch.lirikMEOW {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -112px;
+}
+
+.twitch.AtIvy {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -140px;
+}
+
+.twitch.lirikCLENCH {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -168px;
+}
+
+.twitch.shazamicon {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -196px;
+}
+
+.twitch.lirikNICE {
+  width: 28px;
+  height: 28px;
+  background-position: -278px -224px;
+}
+
+.twitch.lirikPOOP {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -264px;
+}
+
+.twitch.lirikTEN {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -264px;
+}
+
+.twitch.lirikHug {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -264px;
+}
+
+.twitch.lirikBLIND {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -264px;
+}
+
+.twitch.VaultBoy {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -264px;
+}
+
+.twitch.lirikC {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -264px;
+}
+
+.twitch.lirikB {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -264px;
+}
+
+.twitch.MechaSupes {
+  width: 28px;
+  height: 28px;
+  background-position: -196px -264px;
+}
+
+.twitch.lirikL {
+  width: 28px;
+  height: 28px;
+  background-position: -224px -264px;
+}
+
+.twitch.PJHarley {
+  width: 28px;
+  height: 28px;
+  background-position: -252px -264px;
+}
+
+.twitch.lirikM {
+  width: 28px;
+  height: 28px;
+  background-position: -306px 0px;
+}
+
+.twitch.lirikO {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -28px;
+}
+
+.twitch.ResidentSleeper {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -56px;
+}
+
+.twitch.lirikFAT {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -84px;
+}
+
+.twitch.lirikAppa {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -112px;
+}
+
+.twitch.lirikGasm {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -140px;
+}
+
+.twitch.lirikGOTY {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -168px;
+}
+
+.twitch.lirikREKT {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -196px;
+}
+
+.twitch.lirikRIP {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -224px;
+}
+
+.twitch.lirikD {
+  width: 28px;
+  height: 28px;
+  background-position: -306px -252px;
+}
+
+.twitch.lirikH {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -292px;
+}
+
+.twitch.OSrob {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -292px;
+}
+
+.twitch.lirikTRASH {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -292px;
+}
+
+.twitch.WTRuck {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -292px;
+}
+
+.twitch.GasJoker {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -292px;
+}
+
+.twitch.lirikMLG {
+  width: 28px;
+  height: 28px;
+  background-position: -140px -292px;
+}
+
+.twitch.lirikCRASH {
+  width: 28px;
+  height: 28px;
+  background-position: -168px -292px;
+}
+
+.twitch.Shazam {
+  width: 28px;
+  height: 28px;
+  background-position: -196px -292px;
+}
+
+.twitch.DOOMGuy {
+  width: 28px;
+  height: 28px;
+  background-position: -224px -292px;
+}
+
+.twitch.lirikOBESE {
+  width: 28px;
+  height: 28px;
+  background-position: -252px -292px;
+}
+
+.twitch.AtWW {
+  width: 28px;
+  height: 28px;
+  background-position: -280px -292px;
+}
+
+.twitch.DAESuppy {
+  width: 28px;
+  height: 28px;
+  background-position: -334px 0px;
+}
+
+.twitch.tbQuesarito {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -28px;
+}
+
+.twitch.TheThing {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -56px;
+}
+
+.twitch.PeoplesChamp {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -84px;
+}
+
+.twitch.GrammarKing {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -112px;
+}
+
+.twitch.UncleNox {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -140px;
+}
+
+.twitch.PanicVis {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -168px;
+}
+
+.twitch.BrokeBack {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -196px;
+}
+
+.twitch.PipeHype {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -224px;
+}
+
+.twitch.Mau5 {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -252px;
+}
+
+.twitch.YouWHY {
+  width: 28px;
+  height: 28px;
+  background-position: -334px -280px;
+}
+
+.twitch.RitzMitz {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -320px;
+}
+
+.twitch.EleGiggle {
+  width: 28px;
+  height: 28px;
+  background-position: -28px -320px;
+}
+
+.twitch.ArgieB8 {
+  width: 28px;
+  height: 28px;
+  background-position: -56px -320px;
+}
+
+.twitch.KZskull {
+  width: 28px;
+  height: 28px;
+  background-position: -84px -320px;
+}
+
+.twitch.NotLikeThis {
+  width: 28px;
+  height: 28px;
+  background-position: -112px -320px;
+}
+
+.twitch.Volcania {
+  width: 27px;
+  height: 28px;
+  background-position: -140px -320px;
+}
+
+.twitch.ThunBeast {
+  width: 26px;
+  height: 28px;
+  background-position: -196px -180px;
+}
+
+.twitch.lirikThump {
+  width: 28px;
+  height: 26px;
+  background-position: -167px -320px;
+}
+
+.twitch.TheTarFu {
+  width: 25px;
+  height: 28px;
+  background-position: -224px -208px;
+}
+
+.twitch.Kappa {
+  width: 25px;
+  height: 28px;
+  background-position: -252px -236px;
+}
+
+.twitch.Kippa {
+  width: 24px;
+  height: 28px;
+  background-position: -280px -264px;
+}
+
+.twitch.OMGScoots {
+  width: 22px;
+  height: 28px;
+  background-position: -308px -292px;
+}
+
+.twitch.DogFace {
+  width: 22px;
+  height: 28px;
+  background-position: -362px 0px;
+}
+
+.twitch.SwiftRage {
+  width: 21px;
+  height: 28px;
+  background-position: -362px -28px;
+}
+
+.twitch.HassanChop {
+  width: 19px;
+  height: 28px;
+  background-position: -362px -56px;
+}
+
+.twitch.BatChest {
+  width: 18px;
+  height: 28px;
+  background-position: -362px -84px;
+}
+
+.twitch.FunRun {
+  width: 27px;
+  height: 27px;
+  background-position: 0px -348px;
+}
+
+.twitch.SuperVinlin {
+  width: 23px;
+  height: 27px;
+  background-position: -27px -348px;
+}
+
+.twitch.NoNoSpot {
+  width: 23px;
+  height: 27px;
+  background-position: -50px -348px;
+}
+
+.twitch.OptimizePrime {
+  width: 22px;
+  height: 27px;
+  background-position: -362px -112px;
+}
+
+.twitch.PicoMause {
+  width: 22px;
+  height: 27px;
+  background-position: -362px -139px;
+}
+
+.twitch.CougarHunt {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -166px;
+}
+
+.twitch.JKanStyle {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -193px;
+}
+
+.twitch.GingerPower {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -220px;
+}
+
+.twitch.BlargNaut {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -247px;
+}
+
+.twitch.KevinTurtle {
+  width: 21px;
+  height: 27px;
+  background-position: -362px -274px;
+}
+
+.twitch.StrawBeary {
+  width: 20px;
+  height: 27px;
+  background-position: -362px -301px;
+}
+
+.twitch.FPSMarksman {
+  width: 20px;
+  height: 27px;
+  background-position: -73px -348px;
+}
+
+.twitch.OneHand {
+  width: 20px;
+  height: 27px;
+  background-position: -93px -348px;
+}
+
+.twitch.JonCarnage {
+  width: 20px;
+  height: 27px;
+  background-position: -113px -348px;
+}
+
+.twitch.StoneLightning {
+  width: 20px;
+  height: 27px;
+  background-position: -133px -348px;
+}
+
+.twitch.TheRinger {
+  width: 20px;
+  height: 27px;
+  background-position: -153px -348px;
+}
+
+.twitch.FreakinStinkin {
+  width: 19px;
+  height: 27px;
+  background-position: -173px -348px;
+}
+
+.twitch.NinjaTroll {
+  width: 19px;
+  height: 27px;
+  background-position: -192px -348px;
+}
+
+.twitch.RedCoat {
+  width: 19px;
+  height: 27px;
+  background-position: -211px -348px;
+}
+
+.twitch.Kreygasm {
+  width: 19px;
+  height: 27px;
+  background-position: -230px -348px;
+}
+
+.twitch.ArsonNoSexy {
+  width: 18px;
+  height: 27px;
+  background-position: -249px -348px;
+}
+
+.twitch.PazPazowitz {
+  width: 18px;
+  height: 27px;
+  background-position: -267px -348px;
+}
+
+.twitch.EagleEye {
+  width: 18px;
+  height: 27px;
+  background-position: -285px -348px;
+}
+
+.twitch.UleetBackup {
+  width: 17px;
+  height: 27px;
+  background-position: -303px -348px;
+}
+
+.twitch.FuzzyOtterOO {
+  width: 26px;
+  height: 26px;
+  background-position: -195px -320px;
+}
+
+.twitch.PunchTrees {
+  width: 24px;
+  height: 24px;
+  background-position: -116px -64px;
+}
+
+.twitch.SMSkull {
+  width: 24px;
+  height: 24px;
+  background-position: -221px -320px;
+}
+
+.twitch.SSSsss {
+  width: 24px;
+  height: 24px;
+  background-position: -245px -320px;
+}
+
+.twitch.smiley-1 {
+  width: 24px;
+  height: 18px;
+  background-position: -269px -320px;
+}
+
+.twitch.smiley-5 {
+  width: 24px;
+  height: 18px;
+  background-position: -293px -320px;
+}
+
+.twitch.smiley-4 {
+  width: 24px;
+  height: 18px;
+  background-position: -317px -320px;
+}
+
+.twitch.smiley-3 {
+  width: 24px;
+  height: 18px;
+  background-position: -320px -348px;
+}
+
+.twitch.smiley-2 {
+  width: 24px;
+  height: 18px;
+  background-position: -344px -348px;
+}
+
+.twitch.smiley-10 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px 0px;
+}
+
+.twitch.smiley-15 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -18px;
+}
+
+.twitch.smiley-13 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -36px;
+}
+
+.twitch.smiley-11 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -54px;
+}
+
+.twitch.smiley-9 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -72px;
+}
+
+.twitch.smiley-12 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -90px;
+}
+
+.twitch.smiley-7 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -108px;
+}
+
+.twitch.smiley-6 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -126px;
+}
+
+.twitch.smiley-8 {
+  width: 24px;
+  height: 18px;
+  background-position: -384px -144px;
+}
+
+.twitch.ItsBoshyTime {
+  width: 18px;
+  height: 18px;
+  background-position: -384px -162px;
+}
+
+
