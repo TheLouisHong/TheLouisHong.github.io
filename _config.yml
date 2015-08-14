@@ -4,10 +4,10 @@
 baseurl: 
 
 # Site live URL
-url: http://loolo78.github.io
+#url: http://loolo78.github.io
 
 # Localhost 
-# url: http://127.0.0.1:4000  
+url: http://127.0.0.1:4000  
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
@@ -33,7 +33,7 @@ harmony:
     github: loolo78
     twitter: loolo78
     facebook: oiclouis
-    gplus: +Louis Hong
+    gplus: 
     dribble: 
     pinterest: 
   # Toggle disclaimer in footer

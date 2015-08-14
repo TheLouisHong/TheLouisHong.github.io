@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Help / FAQ
+published: false
 ---
 
 What is harmony?
