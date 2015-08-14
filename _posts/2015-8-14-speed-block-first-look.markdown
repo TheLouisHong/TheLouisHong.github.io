@@ -14,7 +14,7 @@ The controls are currently swipe right to turn -90° and swipe left to turn 90°
 
 Game play always comes first for me. But the graphics are pretty damn sexy<i class="twitch Kreygasm"/>. We had 8 prototypes until we reached this design. Low-poly water like Monument Valley, Isometric camera, color scheme of Yellow + Blue. Oh god I love it. We also hope to have multiple scene setup for different character skin. Like an desert setup with pyramids and camels for some Egypt character, or some ancient Asian buildings and bright moon for ninja character. Lot's of room for creativity! The only problem I' have with the current look is the UI. I had to use the unity drop shadow to make the white text pop out from the background. But it just looks kinda lame, gonna have to work on that.
 
-The music is by my friend Aria Deng, thank you so much! He's a very good EDM producer. [Here's a link to some of his demo's](arialink). We are referencing the music from [_Jelly Jump_](jellyjump). Aria specifically chose Drum & Base for the music because of the game's fast paste rhythmic game play. It just sounds fucking great for the game.
+The music is by my friend Aria Deng, thank you so much! He's a very good EDM producer. [Here's a link to some of his demo's][arialink]. We are referencing the music from [_Jelly Jump_][jellyjump]. Aria specifically chose Drum & Base for the music because of the game's fast paste rhythmic game play. It just sounds fucking great for the game.
 
 ---
 
