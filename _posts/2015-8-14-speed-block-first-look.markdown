@@ -8,7 +8,7 @@ categories:
 <iframe width="420" height="315" src="https://www.youtube.com/embed/9pSojwQl19w" frameborder="0" allowfullscreen></iframe> 
 Hey guys, here's a first look at the mobile game "Speed Block" we're developing at Broken Taxi Studios. The game is basically Monument Valley + Crossy Road + Temple Run.
 
-You play as a yellow glowing block, speeding down a squiggly lane platform. You have to make sharp turns to avoid falling off the cliff.
+You play as a yellow glowing block, speeding down a squiggly lane platform. You have to make sharp turns to avoid falling.
 
 The controls are currently swipe right to turn -90° and swipe left to turn 90°, called `Race car controls`. But I'm making new controls designed by Dale also our designer of the game where you turn towards the direction you swipe, called `Normal Controls`, sort of like Crossy Road. The reason we are testing out new controls is that through out play test almost every single player got the controls wrong<i class="twitch FailFish"/>. They would always attempt to swipe towards where they want to turn. 
 
