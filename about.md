@@ -8,10 +8,10 @@ permalink: /about/
 
 # Hi, I am Louis Hong.
 
-I'm currently a game developer (who works currently works on mobile games) based on Seattle. 
+I'm currently a game developer based on Seattle. 
 Studying at the DigiPen Institute Of Technology. 
 
-I am the founder of the studio Broken Taxi Studios. Currently we are working on a mobile game named "Speed Block", a challenging game of a speeding block making tight turns in order to not fall off a collapsing lane platform. I really hope to share more about this game on the blog.
+I am the founder of Broken Taxi Studios. Currently we are working on a mobile game named "Speed Block", a challenging game of a speeding block making tight turns in order to not fall off a collapsing lane platform. I really hope to share more about this game on the blog.
 
 #### My Programmer's Log
 
