@@ -6,7 +6,7 @@ tags: []
 published: True
 ---
 
-<iframe src="https://www.youtube.com/embed/03OEpFUg-7U" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/03OEpFUg-7U" frameborder="0" allowfullscreen="1"></iframe>
 
 ---
 What I learned from this project was that, screen-space-reflection is actually super hard to use. As you see in the first part of the video or `PHASE`, I was actually tilting the camera in every angle possible to get the reflection to work right; The problem is because it's screenspace, faces and angles that are not facing to the camera is not rendered because of culling. So Basically no other angle work well for open spaces exposed directly to the sky except 0° sadly.
