@@ -5,7 +5,7 @@ description: A first look at the mobile game we're developing called "Speed Bloc
 categories:
 - speed block log
 ---
-<iframe src="https://www.youtube.com/embed/9pSojwQl19w?VQ=HD720" frameborder="0" allowfullscreen="1"></iframe> 
+<iframe src="https://www.youtube.com/embed/9pSojwQl19w?VQ=HD720" frameborder="0" allowfullscreen="true"></iframe> 
 Hey guys, here's a first look at the mobile game "Speed Block" we're developing at Broken Taxi Studios. The game is basically Monument Valley + Crossy Road + Temple Run.
 
 You play as a yellow glowing block, speeding down a squiggly lane platform. You have to make sharp turns to avoid falling.
