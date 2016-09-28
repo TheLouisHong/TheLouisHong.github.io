@@ -14,8 +14,14 @@ Here's the latest build screen shot, I think our players will love it. It's colo
 Screenshots and Trailers
 ===
 <img src="http://i.imgur.com/1boT0Rc.png" style="width: 250px;"/>
-<div style="width: 250px;">
+
+<!-- <div style="width: 250px;">
 {% youtube _3LhJSia4vo 9 16 %}
+</div>
+ -->
+
+<div style="width: 250px;">
+<figure class="bt-video-container" style="padding-bottom:177.78%"><a class="youtube" href="https://www.youtube.com/watch?v=_3LhJSia4vo" data-videoid="_3LhJSia4vo" data-width="9" data-height="16" style="background: url(&quot;http://i2.ytimg.com/vi/_3LhJSia4vo/maxresdefault.jpg&quot;) center center no-repeat rgb(0, 0, 0);"><div class="bt-video-container-div"></div>&nbsp;</a></figure>
 </div>
 
 Thoughts and changes
