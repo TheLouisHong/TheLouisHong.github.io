@@ -1,9 +1,8 @@
 ---
 title:  "First look at mobile game \"Speed Block\""
-date:   2015-08-15
 description: A first look at the mobile game we're developing called "Speed Block".
-categories:
-- speed block log
+categories: ['work']
+tag: ['Rainbow and the Cube']
 ---
 <iframe src="https://www.youtube.com/embed/9pSojwQl19w?VQ=HD720" frameborder="0" allowfullscreen></iframe> 
 Hey guys, here's a first look at the mobile game "Speed Block" we're developing at Broken Taxi Studios. The game is basically Monument Valley + Crossy Road + Temple Run.

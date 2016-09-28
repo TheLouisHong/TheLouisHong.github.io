@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Welcome to my blog"
-date:   2015-08-14
 description: I'm going to DigiPen Institute Of Techonlogy to study Game Design & Computer Science after summer. Which is less then 2 weeks away. I'm going to start my blog so I kind remind my self and other people the amazing things I've done and how amazing I am.
-categories:
-- personal blog
+categories: ['personal blog']
 ---
 
 ###Welcome!

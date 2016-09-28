@@ -2,9 +2,8 @@
 layout: post
 title: Why is Unity 5.9GB you ask?
 categories: ['personal blog']
-tags: []
+tags: ['unity']
 published: True
-
 ---
 
 The Unity Editor 5.9 GB *when installed*. Do you know what takes up all that space? My school has a proprietary game engine and it's install file is 13 MB.

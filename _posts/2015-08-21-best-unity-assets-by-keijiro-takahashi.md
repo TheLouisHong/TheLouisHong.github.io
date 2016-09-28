@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Unity Assets by Keijiro Takahashi : Including open source SSAO, GPU Accelerated terrain, vignetting effects, SSR, refraction etc etc. There's way to much to list in the title. 100% you'll be in awe when you see the amount of top quality asset he has on GitHub.
+title: Best Unity Assets by Keijiro Takahashi, Including open source SSAO, GPU Accelerated terrain, vignetting effects, SSR, refraction etc etc. There's way to much to list in the title. 100% you'll be in awe when you see the amount of top quality asset he has on GitHub.
 categories: ['personal blog']
 tags: ['reddit']
 published: True
