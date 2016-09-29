@@ -61,10 +61,9 @@ If you're interested we have a small website for our Studio Bad Engine Games: [h
 
 [My (Louis) Linkedin](https://www.linkedin.com/in/loolo78)
 
-
-
-<meta name="twitter:card" content="summary_large_image">
+meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@loolo78">
 <meta name="twitter:creator" content="@loolo78">
 <meta name="twitter:title" content='The "Annual" The Rainbow and the Cube Dev Update'>
-<meta name="twitter:image" content="http://i.imgur.com/Fhmyg9A.png">
+<meta name="twitter:description" content="Wrote a dev blog for my upcoming iPhone game Rainbow and the Cube. It's filled to the brim with preview music and screenshots. For nerds, I also showed off my map skin custom editor, it enabling designers to change map colors real time.">
+<meta name="twitter:image" content="http://i.imgur.com/Fhmyg9Al.png">
