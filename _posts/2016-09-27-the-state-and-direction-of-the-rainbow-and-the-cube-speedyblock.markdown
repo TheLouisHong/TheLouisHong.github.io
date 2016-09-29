@@ -20,7 +20,7 @@ Screenshots and Trailers
 </div>
 <div style="clear: both"/>
 
-The game has come a long way, albeit rather slowly. But on the bright side, when I was in San Francisco, with Dali and Sam, we got a month worth of work done in a week compared to if I were just to work on my own. Completely reworked the color schemes, revised the UI design and added a core game mechanic. Let me explain some of the major updates.
+The game has come a long way, albeit rather slowly. But we got a month worth of work done in a week when I flew over to Dali and Sam in Sanfrancisco and I'm very happy with that. We've completely reworked the color schemes, revised the UI design and added a core game mechanic. Let me explain some of the major updates.
 
 Mechanics: _New Rainbow Mode_
 ---
