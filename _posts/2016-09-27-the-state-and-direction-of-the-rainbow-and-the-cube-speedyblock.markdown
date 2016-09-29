@@ -49,7 +49,7 @@ _New UI Design, and some special FX mockups_
 
 Future
 ---
-I will finish the new menu and polish the game. The goal is to have Apple feature us on the App Store. If we want this game to be featured by Apple! We need to be bug-less & smooth experience.
+The only thing left to do is finish the new menu. But then again, polishing is going to take a while. The goal is to have Apple feature us on the App Store. If we want this game to be featured by Apple! We need to be bug-less & smooth experience.
 
 Links
 ---
