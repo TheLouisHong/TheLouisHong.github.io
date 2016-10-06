@@ -28,7 +28,7 @@ We have a new mechanic called _Rainbow Mode_. The player will now get point-mult
 
 Music: _New Rainbow Music_
 ---
-For the new Rainbow Mode, we have created a unique rainbow map skin and theme song. Aria (Citric Aria) Deng, our audio engineer and audio designer has created new music just for it ("Rainbow Rode"). The music is a perfect match for the mode, it is trippy, short and it loops. We made it like this so we can switch back and forth from the main theme song to the rainbow mode theme song during play. Again and again, Aria surprises the team with his incredible musical talent. He understands music like no one else does and has a thorough understanding of the science of sound and music theory. We're lucky to have Aria part of the team.
+For the new Rainbow Mode, we have created a unique rainbow map skin and theme song. Aria (Citric Aria) Deng, our audio engineer and audio designer has created new music just for it ("Rainbow Rode"). The music is a perfect match for the mode, it is trippy, short and it loops. We made it like this so we can switch back and forth from the main theme song to the rainbow mode theme song during play. Again and again, Aria surprises the team with his incredible musical talent. He understands music like no one else does and has a thorough understanding of the science of sound and music theory. We're excited and lucky to have Aria part of the team.
 
 _Our new Rainbow Mode music "Rainbow Road by Citric Aria"_
 <iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=http:%2F%2Fapi.soundcloud.com%2Ftracks%2F285114973&show_artwork=true&secret_token=s-FXsVi"></iframe>
