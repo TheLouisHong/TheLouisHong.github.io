@@ -36,7 +36,7 @@ _Our new Rainbow Mode music "Rainbow Road by Citric Aria"_
 
 Design: _New UI, New Colors_
 ---
-The new map color design are much more diverse and interesting for the player to explore. Like before, these maps skin will change based on what level the player is in, making new high scores more memorable. In order to achieve this, I rewrote our map skin code and created a nice editor for the designers to experiment with colors in-game real-time. For the first time I've made use of the custom editor feature and it has immediately paid off. The editor streamlined the design workflow, and enabled Dali and Sam to put a great amount of time and effort in the designs. And now, we are now able to proudly present 5 new maps!
+The new map color design are much more diverse and interesting for the player to explore. Like before, these maps skin will change based on what level the player is in, making new high scores more memorable. In order to achieve this, I rewrote our map skin code and created a nice editor for the designers to experiment with colors in-game real-time. For the first time I've made use of the custom editor feature and it has immediately paid off. The editor streamlined the design workflow, and enabled Dali and Sam to put a great amount of time and effort in the designs. As a result, we proudly present 5 new maps!
 
 _The editor I created for our designers to create map skins, click enlarge_
 <div style='position:relative;padding-bottom:57%'><iframe src='https://gfycat.com/ifr/BraveZealousCanadagoose' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
