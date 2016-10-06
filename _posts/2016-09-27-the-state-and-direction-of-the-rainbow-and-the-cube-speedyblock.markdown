@@ -24,7 +24,7 @@ The game has come a long way, albeit rather slowly. But we got a month worth of 
 
 Mechanics: _New Rainbow Mode_
 ---
-We have a new mechanic called _Rainbow Mode_. The player will now get point-multiplier-bonus (x2,x4,x8) starting from the 3rd perfect turn. The perfect turn the multiplier is terminated when the player fails to perform a perfect turn. Rainbow Mode rewards the player exponentially for being consistent. Imagine I've made 20 perfect turns in a row, and your multiplier is at 16x more points per turn, my heart hammers, and my hands go sweaty, I want to keep the points coming. The motivation behind this idea is that before our game lacks stake and building tension, that there is nothing to lose when the player makes a bad turn. 
+We have a new mechanic called _Rainbow Mode_. The player will now get point-multiplier-bonus (x2,x4,x8) starting from the 3rd perfect turn. The perfect turn the multiplier is terminated when the player fails to perform a perfect turn. Rainbow Mode rewards the player exponentially for being consistent. Imagine I've made 20 perfect turns in a row, and my multiplier is at 16x more points per turn, my heart hammers, and my hands go sweaty, I want to keep the points coming. The motivation behind this idea is that before our game lacks stake and building tension, that there is nothing to lose when the player makes a bad turn. 
 
 Music: _New Rainbow Music_
 ---
