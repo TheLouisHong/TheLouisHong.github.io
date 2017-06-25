@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-<img src="http://i.imgur.com/IijDSzU.jpg" style="width:300px;float: left;margin-right: 43px;"/>
+<img src="http://i.imgur.com/Nf8QXxT.jpg" style="width:300px;float: left;margin-right: 43px;"/>
 
 # Hi, I am Louis Hong.
 
