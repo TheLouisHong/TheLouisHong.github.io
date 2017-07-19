@@ -26,7 +26,7 @@ I am the founder of Broken Taxi Studios. Currently we are working on a mobile ga
 ### Contact me
 
 Find me on [GitHub][github] / [Twitter][twitter] / [Reddit][reddit] or just say `Hello` at 
-[honglouis@outlook.com](honglouis@outlook.com).
+[honglouis97@gmail.com](honglouis97@gmail.com).
 
 [scratch]: https://scratch.mit.edu/users/loolo78/
 [github]: https://github.com/loolo78
