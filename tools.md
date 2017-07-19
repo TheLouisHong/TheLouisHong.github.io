@@ -4,6 +4,10 @@ title: About me
 permalink: /tools/
 ---
 
+<meta property="og:title" content="Calculate When To Sleep" />
+<meta property="og:desciption" content="Need to wake up? When should you sleep to get enough sleep? Try this." />
+
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-timepicker/1.10.0/jquery.timepicker.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-timepicker/1.10.0/jquery.timepicker.min.css">
 
