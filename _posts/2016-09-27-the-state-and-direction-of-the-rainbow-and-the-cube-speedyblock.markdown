@@ -20,15 +20,15 @@ Screenshots and Trailers
 </div>
 <div style="clear: both"/>
 
-The game has come a long way, albeit rather slowly. But on the bright side, when I was in San Francisco, with Dali and Sam, we got a month worth of work done in a week compared to if I were just to work on my own. Completely reworked the color schemes, revised the UI design and added a core game mechanic. Let me explain some of the major updates.
+The game has come a long way, albeit rather slowly. But we got a month worth of work done in a week when I flew over to Dali and Sam in San Francisco and I'm very happy with that. We've completely reworked the color schemes, revised the UI design and added a core game mechanic. Let me explain some of the major updates.
 
 Mechanics: _New Rainbow Mode_
 ---
-We have a new mechanic called _Rainbow Mode_. The player will now get point-multiplier-bonus (x2,x4,x8) starting from the 3rd perfect turn. The perfect turn the multiplier is terminated when the player fails to perform a perfect turn. Rainbow Mode rewards the player exponentially for being consistent. Imagine you've made 20 perfect turns in a row, and your multiplier is at 16x more points per turn, my heart hammers, and my heads go sweaty, I want to keep the points coming. The motivation behind this idea is that before our game lacks stake and building tension, that there is nothing to lose when the player makes a bad turn. 
+We have a new mechanic called _Rainbow Mode_. The player will now get point-multiplier-bonus (x2,x4,x8) starting from the 3rd perfect turn. The perfect turn the multiplier is terminated when the player fails to perform a perfect turn. Rainbow Mode rewards the player exponentially for being consistent. Imagine the sweaty palms the players will have at 20x the point each turn, it's exciting, and nerve wracking as well. The motivation behind this idea is that before our game lacks stake and building tension, that there was nothing to lose when the player makes a bad turn. 
 
 Music: _New Rainbow Music_
 ---
-For the new Rainbow Mode, we have created a unique rainbow map skin and theme song. Aria (Citric Aria) Deng, our audio engineer, and designer has created new music just for it ("Rainbow Rode"). The music is a perfect match for the mode, it is trippy, short and it loops. We made it like this so we can switch back and forth from the main theme song to the rainbow mode theme song during play. Again and again, Aria surprises the team again and again with his incredible musical talent. He understands music like no one else does and has a thorough understanding of the science of sound and music theory. We're lucky to have Aria part of the team.
+For the new Rainbow Mode, we have created a unique rainbow map skin and theme song. Aria (Citric Aria) Deng, our audio engineer and audio designer has created new music just for it ("Rainbow Rode"). The music is a perfect match for the mode, it is trippy, short and it loops. We made it like this so we can switch back and forth from the main theme song to the rainbow mode theme song during play. Again and again, Aria surprises the team with his incredible musical talent. He understands music like no one else does and has a thorough understanding of the science of sound and music theory. We're excited and lucky to have Aria part of the team.
 
 _Our new Rainbow Mode music "Rainbow Road by Citric Aria"_
 <iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=http:%2F%2Fapi.soundcloud.com%2Ftracks%2F285114973&show_artwork=true&secret_token=s-FXsVi"></iframe>
@@ -36,7 +36,7 @@ _Our new Rainbow Mode music "Rainbow Road by Citric Aria"_
 
 Design: _New UI, New Colors_
 ---
-The color design are much more diverse and interesting maps for the player to explore. Like before, these maps skin will change based on what level the player is in, making new high scores more memorable. To  I rewrote our map skin code and created a nice editor for the designers to experiment with colors in-game real-time. For the first time I've made use of the custom editor feature and it has immediately paid off. The designers had a tremendous time designing the colors with the editors, ultimately came up with 5 new color schemes.
+The new map color design are much more diverse and interesting for the player to explore. Like before, these maps skin will change based on what level the player is in, making new high scores more memorable. In order to achieve this, I rewrote our map skin code and created a nice editor for the designers to experiment with colors in-game real-time. For the first time I've made use of the custom editor feature and it has immediately paid off. The editor streamlined the design workflow, and enabled Dali and Sam to put a great amount of time and effort in the designs. As a result, we proudly present 5 new maps!
 
 _The editor I created for our designers to create map skins, click enlarge_
 <div style='position:relative;padding-bottom:57%'><iframe src='https://gfycat.com/ifr/BraveZealousCanadagoose' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
@@ -49,7 +49,7 @@ _New UI Design, and some special FX mockups_
 
 Future
 ---
-I will finish and polish the menu and polish the game play. The goal is to have Apple feature us on the App Store. If we want this game to be featured by Apple! We need to be bug-less & smooth experience.
+The only thing left to do is finish the new menu. But then again, polishing is going to take a while. The goal is to have Apple feature us on the App Store. If we want this game to be featured by Apple! We need to be bug-less & smooth experience.
 
 Links
 ---
@@ -61,7 +61,7 @@ If you're interested we have a small website for our Studio Bad Engine Games: [h
 
 [My (Louis) Linkedin](https://www.linkedin.com/in/loolo78)
 
-meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@loolo78">
 <meta name="twitter:creator" content="@loolo78">
 <meta name="twitter:title" content='The "Annual" The Rainbow and the Cube Dev Update'>
