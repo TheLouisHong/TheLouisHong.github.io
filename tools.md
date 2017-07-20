@@ -52,7 +52,7 @@ You should sleep at:
     $('#basicExample').timepicker();
 
     var date = new Date();
-    $('#current-time').text("Time right now: " + date.getHours() + ":" + date.getMinutes());
+    $('#current-time').text("Time right now: " formatAMPM(date));
 
     function formatAMPM(date) {
         var hours = date.getHours();
@@ -78,7 +78,6 @@ You should sleep at:
 
         var good_hours_of_sleep = ideal_sleep_hours*60*60*1000;
         var sleep_time = new Date(wake_time_date.getTime() - good_hours_of_sleep);
-        console.log(sleep_time);
         $('#sleep-time').text(formatAMPM(sleep_time));
     }
 
