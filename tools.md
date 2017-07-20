@@ -52,7 +52,7 @@ You should sleep at:
     $('#basicExample').timepicker();
 
     var date = new Date();
-    $('#current-time').text("Time right now: " formatAMPM(date));
+    $('#current-time').text("Time right now: " + formatAMPM(date));
 
     function formatAMPM(date) {
         var hours = date.getHours();
